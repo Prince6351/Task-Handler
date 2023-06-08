@@ -1,4 +1,4 @@
-package prince.example.taskhandler
+package com.data.todoproject
 
 import org.junit.Test
 

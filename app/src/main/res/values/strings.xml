@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">Task Handler</string>
+    <string name="app_name">Todo</string>
+    <string name="about">About</string>
+    <string name="about_info">About Info</string>
+    <string name="add">Add</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="cancel">Cancel</string>
+    <string name="lbl_new_todo_title">New Todo</string>
+    <string name="lbl_edit_todo_title">Edit Todo</string>
 </resources>

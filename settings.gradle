@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Task Handler"
+rootProject.name = "TodoProject"
 include ':app'

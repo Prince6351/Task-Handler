@@ -4,12 +4,12 @@ plugins {
 }
 
 android {
-    namespace 'prince.example.taskhandler'
+    namespace 'com.data.todoproject'
     compileSdk 33
 
     defaultConfig {
-        applicationId "prince.example.taskhandler"
-        minSdk 24
+        applicationId "com.data.todoproject"
+        minSdk 23
         targetSdk 33
         versionCode 1
         versionName "1.0"
@@ -29,6 +29,10 @@ android {
     }
     kotlinOptions {
         jvmTarget = '1.8'
+    }
+    buildFeatures{
+        viewBinding true
+        dataBinding true
     }
 }
 
